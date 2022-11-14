@@ -10,7 +10,7 @@ h2{
 #link{
     clear: both;
     display: block;
-    margin-left: auto;
+    margin-left: 0 auto;
     margin-right: auto;
     text-align:center;
 }
