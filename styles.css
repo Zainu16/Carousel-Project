@@ -7,6 +7,17 @@ h2{
     margin: 0 auto;
 }
 
+#link{
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+#link:hover{
+    color: red;
+}
+
 .slideshow-container {
     max-width: 1000px;
     position: relative;
